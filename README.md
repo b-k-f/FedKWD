@@ -1,9 +1,10 @@
 # FedWKD: Federated Learning Weighted Aggregation with Knowledge Distillation For IoT Forecasting
 
-**Author:** Bouchra Fakher
-**Published in:** Elsevier's IoT Journal
-**Date:** 2025
-**DOI:** Still Under Review
+
+**Author:** Bouchra Fakher  
+**Published in:** Elsevier's IoT Journal  
+**Date:** 2025  
+**DOI:** Still Under Review  
 
 ## Abstract
 
