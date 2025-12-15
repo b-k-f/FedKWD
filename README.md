@@ -13,4 +13,11 @@ Federated Learning (FL) has emerged as a promising solution for decentralized Ma
 # If you use this work, please cite it as follows:
 
 ```bibtex
-TBD
+@article{fakher2025fedwkd,
+  title={FedWKD: Federated Learning Weighted Aggregation with Knowledge Distillation for IoT Forecasting},
+  author={Fakher, Bouchra and Brahmia, Mohamed El Amine and Bennis, Ismail and Abouaissa, Abdelhafid},
+  journal={Internet of Things},
+  pages={101849},
+  year={2025},
+  publisher={Elsevier}
+}
