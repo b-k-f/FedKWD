@@ -4,7 +4,7 @@
 **Author:** Bouchra Fakher  
 **Published in:** Elsevier's IoT Journal  
 **Date:** 2025  
-**DOI:** Still Under Review  
+**DOI:** https://doi.org/10.1016/j.iot.2025.101849
 
 ## Abstract
 
